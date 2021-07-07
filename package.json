@@ -1,5 +1,5 @@
 {
-  "name": "api-server",
+  "name": "basic-api-server",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -14,27 +14,25 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/IbrahimAbuawad/api-server.git"
+    "url": "git+https://github.com/DinaSami/basic-api-server.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/IbrahimAbuawad/api-server/issues"
+    "url": "https://github.com/DinaSami/basic-api-server/issues"
   },
-  "homepage": "https://github.com/IbrahimAbuawad/api-server#readme",
-  "devDependencies": {
-    "@code-fellows/supergoose": "^1.1.0",
-    "eslint": "^7.29.0",
-    "jest": "^27.0.6",
-    "supergoose": "^0.2.6"
-  },
+  "homepage": "https://github.com/DinaSami/basic-api-server#readme",
   "dependencies": {
+    "@code-fellows/supergoose": "^1.1.0",
     "cors": "^2.8.5",
     "dotenv": "^10.0.0",
     "express": "^4.17.1",
-    "mongoose": "^5.13.2",
     "morgan": "^1.10.0",
-    "pg": "^8.6.0"
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "jest": "^27.0.6",
+    "supertest": "^6.1.3"
   }
 }
