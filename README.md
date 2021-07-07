@@ -1,18 +1,18 @@
-# api-server
+# auth-api-sql
 
 ## URLs
 
 ### Heroku applications :
 
-[server-deploy-main](https://api-server-dina.herokuapp.com/)
+[server-deploy-main]()
 
 ### Github actions:
 
-[actions](https://github.com/DinaSami/api-server/actions)
+[actions](https://github.com/DinaSami/api-server-sql/actions)
 
 ### pull request:
 
-[PR](https://github.com/DinaSami/api-server/pull/1)
+[PR](https://github.com/DinaSami/api-server-sql/pull/1)
 
 ## Drawings:
 
